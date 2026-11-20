@@ -15,13 +15,13 @@ percentage reductions against single-stage baselines.
 ## Project Screenshots
 
 ### Application Dashboard
-![Application Dashboard](screenshots/01-application-dashboard.png)
+![Application Dashboard](screenshots/application-dashboard.png)
 
 ### Docker Containers
-![Docker Containers](screenshots/02-docker-containers.png)
+![Docker Containers](screenshots/docker-containers.png)
 
 ### Docker Image Optimization
-![Image Optimization](screenshots/03-image-optimization.png)
+![Image Optimization](screenshots/image-optimization.png)
 
 ### API Health and Database Connectivity
-![API Health](screenshots/04-api-health.png)
+![API Health](screenshots/api-health.png)
