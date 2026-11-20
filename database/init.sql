@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS tasks (
+    id SERIAL PRIMARY KEY,
+    title VARCHAR(200) NOT NULL,
+    created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
+);
+
+INSERT INTO tasks (title)
+VALUES ('Complete DevOps Task 2');
